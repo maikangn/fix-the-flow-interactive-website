@@ -1,13 +1,13 @@
 ![OBA](https://user-images.githubusercontent.com/1061632/191293310-64f64c1f-8b5a-42a3-8181-d0fb240ebc56.png)
 
-De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, die zich ten doel stelt het vrije verkeer van informatie in de Amsterdamse samenleving te bevorderen. In dit project is er een redesign van het Mijn OBA platform gerealiseerd.
+De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, die zich ten doel stelt het vrije verkeer van informatie in de Amsterdamse samenleving te bevorderen. In dit project is er een redesign van het Mijn OBA platform gerealiseerd. 
 
 ![image](https://user-images.githubusercontent.com/112856292/205169064-10497546-825a-4bd2-8883-e5f59c797d6a.png)
 
-* Live-url: https://maikangn.github.io/look-and-feel-corporate-identity/
+* Live-url: https://maikangn.github.io/fix-the-flow-interactive-website/
 
-## User story #12
-> Als OBA lid wil ik op de website persoonlijke boekentips krijgen, zodat ik gestimuleerd wordt meer te lezen.
+## User story #7
+> Als OBA lid wil ik als ik boeken op de reserveringslijst plaats, gewezen worden op relevante activiteiten.
 
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
