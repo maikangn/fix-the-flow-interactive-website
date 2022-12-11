@@ -7,7 +7,7 @@ De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, d
 * Live-url: https://maikangn.github.io/look-and-feel-corporate-identity/
 
 ## User story #12
-> Als OBA lid wil ik op de website persoonlijke boekentips krijgen, zodat ik gestimuleerd wordt meer te lezen.
+> Als OBA lid wil ik als ik boeken op de reserveringslijst plaats, gewezen worden op relevante activiteiten.
 
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
