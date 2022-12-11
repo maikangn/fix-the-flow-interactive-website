@@ -4,7 +4,7 @@ De Stichting Openbare Bibliotheek Amsterdam (OBA) is een culturele instelling, d
 
 ![image](https://user-images.githubusercontent.com/112856292/205169064-10497546-825a-4bd2-8883-e5f59c797d6a.png)
 
-* Live-url: https://maikangn.github.io/look-and-feel-corporate-identity/
+* Live-url: https://maikangn.github.io/fix-the-flow-interactive-website/
 
 ## User story #7
 > Als OBA lid wil ik als ik boeken op de reserveringslijst plaats, gewezen worden op relevante activiteiten.
