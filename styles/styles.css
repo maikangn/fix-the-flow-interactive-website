@@ -30,11 +30,20 @@
 
   }
   
-  h2{
+  .front-title{
     font-family: AvenirBlack, 'Avenir', Arial, Helvetica, sans-serif;
     font-size: 1.7em;
     margin-bottom: 1.7em;
-    padding-top: 0.3em;
+    padding-top: 3px;
+    padding-left: 33%;
+    text-align: left;
+    letter-spacing: 0.25px;
+  }
+
+  h2{
+    font-family: AvenirBlack, 'Avenir', Arial, Helvetica, sans-serif;
+    font-size: 1.35em;
+    padding-top: 3px;
     padding-left: 33%;
     text-align: left;
     letter-spacing: 0.25px;
@@ -46,7 +55,7 @@
   }
   
   h4 {
-    font-size: 17px;
+    font-size: 1.1em;
     margin: 10px 0;
     text-align: left;
     letter-spacing: 0.3px;
@@ -65,8 +74,13 @@
     margin-bottom: 0;
   }
 
-  hr{
-    margin: 10px;
+  hr {
+    margin: 10px
+  }
+
+  .line {
+  margin: 3em;
+  color: #bebebe;
   }
 
   a{
