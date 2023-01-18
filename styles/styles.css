@@ -31,7 +31,10 @@
   }
   
   h2{
-    padding-top: 2%;
+    font-family: AvenirBlack, 'Avenir', Arial, Helvetica, sans-serif;
+    font-size: 1.7em;
+    margin-bottom: 1.7em;
+    padding-top: 0.3em;
     padding-left: 33%;
     text-align: left;
     letter-spacing: 0.25px;
@@ -79,6 +82,7 @@
     margin-left: -1.5em;
     border-radius: 2px;
     display: none;
+    transition: 0.3s;
   }
 
   .intuitie-img{
