@@ -43,7 +43,7 @@
   h2{
     font-family: AvenirBlack, 'Avenir', Arial, Helvetica, sans-serif;
     font-size: 1.35em;
-    padding-top: 3px;
+    padding-top: 1%;
     padding-left: 33%;
     text-align: left;
     letter-spacing: 0.25px;
@@ -68,6 +68,7 @@
   p {
     margin-bottom: 10px;
     text-align: center;
+   
   }
   
   p:last-child {
@@ -104,6 +105,7 @@
     height: auto;
     float: left;
   }
+
   .wrapper {
     width: 100%;
     text-align: center; /* center hack */
@@ -395,6 +397,13 @@ transition: .2s;
 }
   
   .bookTitle {
+    margin: 10px;
+    padding-left: 32%;
+    text-align: left;
+  }
+  
+  .author {
+    font-weight: bold;
     margin: 10px;
     padding-left: 32%;
     text-align: left;
