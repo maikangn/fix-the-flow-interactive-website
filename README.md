@@ -8,8 +8,9 @@ In dit project is er een redesign van het Mijn OBA platform gerealiseerd met als
 ## User story #7
 > Als OBA lid wil ik als ik boeken op de reserveringslijst plaats, gewezen worden op relevante activiteiten.
 
-![image](https://user-images.githubusercontent.com/112856292/206930535-652ee36e-7852-4b2a-b32f-6233e7c84de9.png)
-![image](https://user-images.githubusercontent.com/112856292/206930557-17dfbf97-b09c-43ee-8114-327511ba379c.png)
+![image](https://user-images.githubusercontent.com/112856292/213309145-1dff5d36-4e6c-4869-80e1-e2176fe855c2.png)
+![image](https://user-images.githubusercontent.com/112856292/213309187-3333d224-6181-4fa0-88e6-35f761e2bd1e.png)
+
 
 ## Inhoudsopgave
 
