@@ -9,7 +9,10 @@ In dit project is er een redesign van het Mijn OBA platform gerealiseerd met als
 > Als OBA lid wil ik als ik boeken op de reserveringslijst plaats, gewezen worden op relevante activiteiten.
 
 ![image](https://user-images.githubusercontent.com/112856292/213309145-1dff5d36-4e6c-4869-80e1-e2176fe855c2.png)
-![image](https://user-images.githubusercontent.com/112856292/213309187-3333d224-6181-4fa0-88e6-35f761e2bd1e.png)
+
+### De interactie
+![image](https://user-images.githubusercontent.com/112856292/214177884-931aa4d8-a94a-46c3-8360-451b0e498c16.png)
+* Feed forward: Nadat de gebruiker op de knop "Voeg toe aan mijn leeslijst" klikt, wordt er een (1) weergegeven naast "Mijn leeslijst" in de navigatie. Ook wordt daarbij een relevante activiteit en/of cursus weergegeven dat bijpassend is aan het desbetreffende boek.
 
 
 ## Inhoudsopgave
