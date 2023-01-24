@@ -139,7 +139,7 @@
     height: 100%;
     line-height: 3em;
     text-align: center;
-    background-color: #ffffff;
+    background-color: var(--white);
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
